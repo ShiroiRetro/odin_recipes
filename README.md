@@ -3,6 +3,6 @@ TOP (Foundation-Project: Recipes)
 
 Skills to be demonstrated:
 
-Git Basics
+Git Basics (Add, Commit and Push)
 
-HTML Elements, Tags, Boilerplate, Lists, Links and Images and commit messages
+HTML Elements, Tags, Boilerplate, Lists, Links, Images and commit messages
